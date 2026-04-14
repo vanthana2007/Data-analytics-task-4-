@@ -1,37 +1,37 @@
 #Data-analytics-task-4-
 # NSS Task 4 - Data Analysis Project
 
-## 📌 Project Title
+##  Project Title
 Power BI / Data Analysis Dashboard (Task 4)
 
-## 🎯 Objective
+##  Objective
 To analyze the given dataset and create meaningful insights using visualization tools like Power BI.
 
-## 📊 Dataset Used
+##  Dataset Used
 - Dataset Name: Superstore dataset
 - Source: (Kaggle / SQL / Excel / etc.)
 
-## 🛠 Tools Used
+##  Tools Used
 - Power BI
 - Excel (optional)
 - SQL (if used)
 
-## 📈 Key Insights
+##  Key Insights
 - Total Sales / KPI analysis
 - Profit analysis by category
 - Monthly trend analysis
 - Top performing products / regions
 
-## 📊 Visualizations Used
+##  Visualizations Used
 - KPI Cards
 - Bar Chart
 - Line Chart
 - Pie Chart
 - Matrix / Table
 
-## 🧠 Conclusion
+##  Conclusion
 This project helps to understand business performance and identify important trends in the data.
 
-## 👨‍💻 Created By
+##  Created By
 Name: A.Vanthana
 NSS Task 4
